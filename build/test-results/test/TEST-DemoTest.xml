@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-02-21T21:16:29" hostname="MBR-FVFFD99VQ6LR" time="0.017">
+  <properties/>
+  <testcase name="test_is_NOT_triangle1" classname="DemoTest" time="0.003"/>
+  <testcase name="test_is_NOT_triangle2" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle3" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle4" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle5" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle6" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_NOT_triangle7" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle1" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle2" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle3" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle4" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle5" classname="DemoTest" time="0.0"/>
+  <testcase name="test_main1" classname="DemoTest" time="0.006"/>
+  <testcase name="test_main2" classname="DemoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
